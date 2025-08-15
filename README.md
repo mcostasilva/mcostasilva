@@ -1,4 +1,7 @@
-## Hi there 👋
+<a href="https://www.apple.com/ios/"><img src="https://img.shields.io/badge/-iOS-05122A?style=for-the-badge&color=282a36&logo=apple&logoColor=ffffff" /></a>
+<a href="https://neovim.io"><img src="https://img.shields.io/badge/-NeoVim-05122A?style=for-the-badge&color=282a36&logo=neovim&logoColor=4b9e4b" /></a>
+<a href="https://github.com/tmux/tmux"><img src="https://img.shields.io/badge/-tmux-05122A?style=for-the-badge&color=282a36&logo=tmux&logoColor=1BB91F" /></a>
+<a href="https://www.swift.org"><img src="https://img.shields.io/badge/-Swift-0512AB?style=for-the-badge&color=282a36&logo=Swift&logoColor=F05138" /></a>
 
 <!--
 **mcostasilva/mcostasilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
