@@ -18,7 +18,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-### Statistics
-
-<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcostasilva&layout=compact&show_icons=true&bg_color=282a36&border_color=282a36&title_color=f5e0dc&text_color=ffffff&icon_color=c9cbff&langs_count=6" /></a>
